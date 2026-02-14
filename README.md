@@ -47,7 +47,7 @@ El código genera automáticamente:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/Prediccion-Lipofilicidad-Molecular.git](https://github.com/tu-usuario/Prediccion-Lipofilicidad-Molecular.git)
+    git clone [https://github.com/Yushetf33/Prediccion-Lipofilicidad-Molecular.git](https://github.com/Yushetf33/Prediccion-Lipofilicidad-Molecular.git)
     cd Prediccion-Lipofilicidad-Molecular
     ```
 
@@ -70,6 +70,4 @@ El código genera automáticamente:
 * **Fey, M., & Lenssen, J. E.** (2019). *Fast Graph Representation Learning with PyTorch Geometric*.
 * **MoleculeNet:** A Benchmark for Deep Learning on Molecular Design.
 
----
-**Autor:** Yushetf López Jiménez  
-**Proyecto:** GNN Tournament 2025-26
+
